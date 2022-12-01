@@ -1,9 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "employee":[
+    {
+        "name": "Nata Templeton",
+        "email": "ntempleton0@uol.com.br",
+        "phone": "8426177888",
+        "dob": "18/11/2022",
+        "gender": "Polygender",
+        "hobbies":"playing Cricket"
+    },
+    {
+        "name": "Nichole Gripton",
+        "email": "ngripton1@accuweather.com",
+        "phone": "4096757294",
+        "dob": "06/01/2022",
+        "gender": "Male",
+        "hobbies":"writing"
+    }
+]
+  
 }
